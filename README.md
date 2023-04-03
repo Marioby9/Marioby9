@@ -23,6 +23,11 @@ En este perfil podrás encontrar los proyectos con los que he dado mis primeros 
 [![HTML5](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+
+[![SQL](https://img.shields.io/badge/SQL-green?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
+[![GIT](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+
+
 </br>
 
 
