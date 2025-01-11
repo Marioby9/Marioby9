@@ -1,59 +1,88 @@
-# ☣️ Mario Martín ☣️ 
-### Estudiante de Desarrollo de Aplicaciones Web
+<h2 align="left">Hola 👋! Mi nombre es Mario Martín.</h2>
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+###
 
+<h4 align="left">Soy un Desarrollador fullstack con más de un año de experiencia creando soluciones tecnológicas eficientes y escalables. Mi especialidad radica en el desarrollo de API REST utilizando C# en el backend y Angular para interfaces dinámicas y atractivas en el frontend.</h4>
 
-![GitHub Followers](https://img.shields.io/github/followers/Marioby9?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/Marioby9?style=social)
+###
 
-Soy estudiante de desarrollo de aplicaciones web.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marioby9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marioby9&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="154" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Marioby9&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
-En el año 2021 empecé a tener curiosidad por el mundo de la programación. Al principio fue con documentación básica para python, más tarde, ya pude empezar a crear mis propios programas.
-En 2022 decidí apuntarme al grado de Desarrollo de Aplicaciones Web y descubrí una gran pasión por la programación, desde trabajar la lógica de programación, hasta la implementación de aplicaciones con interfaz gráfica. 
+###
 
-En este perfil podrás encontrar los proyectos con los que he dado mis primeros pasos como desarrollador. 
+<img align="right" height="200" width="200" src="./marioCircled.png"  />
 
+###
 
-## Tecnologías:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="ionic logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+</div>
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010)]()
+###
 
-[![HTML5](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+</div>
 
-[![SQL](https://img.shields.io/badge/SQL-green?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
-[![GIT](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+</div>
 
-</br>
+###
 
+<div align="left">
+  <a href="contacto@mariomg.es" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mario-martin-godoy/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-## Encuéntrame en:
+###
 
-[![Web](https://img.shields.io/badge/Web-Mario_Martin-yellow?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://marioby9.github.io/Personal-Web/)
+<br clear="both">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Martin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mario-martin-godoy/)
+<img src="https://raw.githubusercontent.com/Marioby9/Marioby9/output/snake.svg" alt="Snake animation" />
 
-
-
-# Repositorios destacados:
-## Bibliotech: Proyecto Final 1º DAW:
-
-![https://retosdeprogramacion.com](./mouredev_retos_programacion.png)
-
-
-## Calculadora creada en Java Swing
-![https://mouredev.com/python](./python_banner.png)
-
-[![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/mouredev/hello-python)
-
-
-
-# Contacto:
-
-[![GitHub](https://img.shields.io/badge/Mi_GitHub-Marioby9-orange?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Marioby9)
-
-[![Email](https://img.shields.io/badge/Email-mmartin.mrmg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mmartin.mrmg@gmail.com)
+###
