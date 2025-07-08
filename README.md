@@ -2,9 +2,9 @@
 
 ###
 
-<h4 align="left">Soy un Desarrollador de aplicaciones web especializado en Angular y .NET
+<h4 align="left">Soy un Desarrollador de aplicaciones web especializado en Angular y .NET<br>
 Capaz de crear soluciones
-dinámicas, intuitivas y funcionales.
+dinámicas, intuitivas y funcionales.<br>
 Comprometido con la calidad, la
 eficiencia y la experiencia de usuario.
 </h4>
