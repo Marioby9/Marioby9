@@ -1,9 +1,9 @@
 <div align="center">
   <img src="./marioCircled.png" width="140" alt="Mario Martin" />
 
-  # Mario Martin
+  # Mario Martín Godoy
 
-  **Desarrollador de software especializado en .NET y Azure**
+  **Desarrollador de software especializado en .NET y Angular**
 
   Construyo productos web mantenibles, centrados en la experiencia de usuario y orientados a resolver problemas reales.
 
@@ -20,38 +20,38 @@
   </p>
 </div>
 
-## Sobre mi
+## Sobre mí
 
 - Actualmente en **Stiga CX**.
-- Ubicado en **Madrid, Spain**.
-- Enfocado en el desarrollo de aplicaciones web con **.NET**, **Angular**, **C#** y **TypeScript**.
-- Interesado en arquitectura limpia, rendimiento, mantenibilidad y una buena experiencia de usuario.
+- Ubicado en **Madrid, España**.
+- Especializado en el desarrollo de aplicaciones con **.NET** y **Angular**.
+- Enfocado en arquitectura limpia, rendimiento, mantenibilidad y una buena experiencia de usuario.
 
 ## Stack principal
 
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/TypeScript-1F5FAA?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
 </p>
 
-## Tecnologias con las que trabajo
+## Tecnologías con las que trabajo
 
 <p>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/MySQL-0F4C81?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-1F2937?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-1F2937?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ## En este perfil
 
-Aqui comparto proyectos personales, practicas, experimentos y trabajo con distintas tecnologias web. Mi objetivo es seguir construyendo soluciones utiles, claras y bien ejecutadas, mejorando tanto en la parte tecnica como en la de producto.
+Aqui comparto proyectos personales, trabajos reales en producción y aportaciones a la comunidad. Mi objetivo es seguir construyendo soluciones útiles, claras y bien ejecutadas, mejorando tanto en la parte técnica como en la de producto.
 
 ## GitHub
 
