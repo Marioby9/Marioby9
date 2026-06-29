@@ -5,7 +5,7 @@
 
   **Desarrollador de software especializado en .NET y Angular**
 
-  Construyo productos web mantenibles, centrados en la experiencia de usuario y orientados a resolver problemas reales.
+  Construyo soluciones mantenibles, centradas en la experiencia de usuario y orientadas a resolver problemas reales.
 
   <p>
     <a href="http://developer.mariomg.es/" target="_blank">
