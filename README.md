@@ -8,8 +8,8 @@
   Construyo soluciones mantenibles, centradas en la experiencia de usuario y orientadas a resolver problemas reales.
 
   <p>
-    <a href="http://developer.mariomg.es/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-developer.mariomg.es-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <a href="https://www.mariomg.es/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-www.mariomg.es-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/mario-martin-godoy/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Mario%20Martin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
