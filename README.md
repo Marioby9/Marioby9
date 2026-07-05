@@ -56,6 +56,6 @@ Aqui comparto proyectos personales, trabajos reales en producción y aportacione
 ## GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marioby9&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marioby9&layout=compact&langs_count=6&hide_border=true&theme=transparent" height="160" alt="Top languages" />
+  <img src="https://gh-readme-profile.vercel.app/api?username=Marioby9&title=Mis+estad%C3%ADsticas&hide=forks%2Ccontributed&revert=false&disabled_animations=true&bg_color=141321&title_color=F7A822&text_color=FFFFFF&icon_color=F7A822" height="180" alt="GitHub Readme Profile"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Marioby9&theme=radical" height="180" alt="Top languages" />
 </div>
