@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./marioCircled.png" width="140" alt="Mario Martin" />
+  <img src="./assets/marioCircled.png" width="140" alt="Mario Martin" />
 
   # Mario Martín Godoy
 
@@ -17,6 +17,9 @@
     <a href="mailto:contacto@mariomg.es">
       <img src="https://img.shields.io/badge/Email-contacto%40mariomg.es-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://github.com/Marioby9/Marioby9/raw/main/assets/CV-Mario-Martin-Godoy.pdf">
+  <img src="https://img.shields.io/badge/CV-Descargar-22C55E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Descargar CV" />
+</a>
   </p>
 </div>
 
