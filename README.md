@@ -25,7 +25,7 @@
 
 ## Sobre mí
 
-- Actualmente en **Stiga CX**.
+- Actualmente en **Minsait**.
 - Ubicado en **Madrid, España**.
 - Especializado en el desarrollo de aplicaciones con **.NET** y **Angular**.
 - Enfocado en arquitectura limpia, rendimiento, mantenibilidad y una buena experiencia de usuario.
@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Oracle-C74634?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMS41IiB5PSI2LjUiIHdpZHRoPSIyMSIgaGVpZ2h0PSIxMSIgcng9IjUuNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzIi8%2BPC9zdmc%2B" alt="Oracle" />
   <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-1F2937?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
